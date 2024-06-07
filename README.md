@@ -8,7 +8,7 @@ cd repository
 # Make changes to your files (e.g., edit README.md)
 
 # Stage the changes
-~~~ git add . ~~~
+ git add .
 
 # Commit the changes
 git commit -m "Update README"
