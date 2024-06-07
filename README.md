@@ -2,10 +2,8 @@
 jenskins
 
 # Clone the repository
-git clone https://github.com/username/repository.git
-cd repository
-
-# Make changes to your files (e.g., edit README.md)
+git clone https://github.com/MohamedRafshan/first_jenskins.git
+cd first_jenskins
 
 # Stage the changes
  git add .
@@ -15,3 +13,9 @@ git commit -m "Update README"
 
 # Push the changes to GitHub
 git push origin main
+
+
+
+first
++ $ docker build -t myjenkins-blueocean:2.414.2 .
+
